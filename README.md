@@ -6,5 +6,7 @@ hii hello i am kenny i don't know wat else to say ok bye look how cute rockruff 
 
 <img src="https://64.media.tumblr.com/08aaa629d26ff2e89be45a83f3740939/da9d3d5162c45ce1-39/s1280x1920/289158c4bd7afbdbfa84fe85daad53a562010cb0.pnj" align="CENTER" alt="paws">
 
+<img src="https://64.media.tumblr.com/5e05fcfdf87036bab4f4fac14881107c/d4f6484dd3b95a54-84/s400x600/9f17c3651bd90a5790958b10eee135cc36fde2c1.webp" align="CENTER" alt="NAME">
+
 <!--
 **rot4paws/rot4paws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
