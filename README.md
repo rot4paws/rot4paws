@@ -4,7 +4,7 @@
 
 hii hello i am kenny i don't know wat else to say ok bye look how cute rockruff is ok
 
-<img src="https://64.media.tumblr.com/08aaa629d26ff2e89be45a83f3740939/da9d3d5162c45ce1-39/s1280x1920/289158c4bd7afbdbfa84fe85daad53a562010cb0.pnj" align="CENTER" alt="paws">
+<img src="https://64.media.tumblr.com/89fe52e8c3a0f79fbfeb1367ccb6d18c/5385ed5a892c4388-93/s100x200/d6494034d931277dbefcba55463db0ec9a2b3609.gifv" align="CENTER" alt="paws">
 
 <img src="https://64.media.tumblr.com/ccaaf85489cdaa15584d7d8480b8bab1/61ce43c936ceeb5a-70/s400x600/5f16817e3f16214b476df8cea1c634f20e3097a2.gifv" align="CENTER" alt="rocket">
 
