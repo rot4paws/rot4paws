@@ -4,9 +4,11 @@
 
 hii hello i am kenny i don't know wat else to say ok bye look how cute rockruff is ok
 
-<img src="https://64.media.tumblr.com/89fe52e8c3a0f79fbfeb1367ccb6d18c/5385ed5a892c4388-93/s100x200/d6494034d931277dbefcba55463db0ec9a2b3609.gifv" align="CENTER" alt="paws">
+<img src="https://64.media.tumblr.com/08aaa629d26ff2e89be45a83f3740939/da9d3d5162c45ce1-39/s1280x1920/289158c4bd7afbdbfa84fe85daad53a562010cb0.pnj" align="CENTER" alt="paws">
 
-<img src="https://64.media.tumblr.com/ccaaf85489cdaa15584d7d8480b8bab1/61ce43c936ceeb5a-70/s400x600/5f16817e3f16214b476df8cea1c634f20e3097a2.gifv" align="CENTER" alt="rocket">
+<img src="https://64.media.tumblr.com/c5517feff46a5dd00619d31dd75ab5d0/dafc84a7bc3f334a-c3/s250x400/3d8eb23682cf4ccdef7a25638858f0544cbfa678.gifv" align="CENTER" alt="rocket">
+
+<img src="https://64.media.tumblr.com/d2183e2db753d900e307e84482a00262/ad53b2d71e68fff2-79/s540x810/390ec8b5ced04beee036aebe1382efb17115cfe8.gifv" align="CENTER" alt="rockeet">
 
 <!--
 **rot4paws/rot4paws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
