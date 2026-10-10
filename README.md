@@ -1,4 +1,4 @@
-(https://komarev.com/ghpvc/?username=rot4paws
+(https://komarev.com/ghpvc/?username=rot4paws)
 
 <img src="https://64.media.tumblr.com/1d4b3064a163070048e22c55ba0dab3a/62c85e8448eea3ab-1d/s1280x1920/a976305e6364a051b5be402e97121b0932a25b0c.pnj" align="CENTER" alt="border">
 
